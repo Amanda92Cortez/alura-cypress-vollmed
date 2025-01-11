@@ -16,7 +16,12 @@ npm init @eslint/config
 
 
 
+npm run lint
 
+npx cypress run --browser firefox
+npm run test:tablet
+npm run test:browser:edge
+npx cypress open
 
 
 
